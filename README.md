@@ -11,7 +11,7 @@ AUDIO VISUALIZER!!!
 2. [Aiswarya Chandrashekar](https://github.com/Techkunjan)
 ## How it Works ?
 1. This is just a Visualizer animation made with P5
-2. Integrating the audio input is work in progress
+2. Input an audio track! Preferably the one i uploaded coz its Lit!!!
 ## Libraries used
 P5
 ## How to configure
