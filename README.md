@@ -5,10 +5,10 @@
 
 
 # Project Name
-Long Description about project. This project do that. This project is awesome...
+AUDIO VISUALIZER!!!
 ## Team members
-1. [Name 1](https://github.com/TH-Activities/saturday-hack-night-template)
-2. [Name 2](https://github.com/TH-Activities/saturday-hack-night-template)
+1. [Joseph Shibu](https://github.com/SharkSpidy)
+2. [Aiswarya Chandrashekar](https://github.com/Techkunjan)
 ## Link to product walkthrough
 [link to video](Link Here)
 ## How it Works ?
@@ -20,3 +20,4 @@ Library Name - Version
 Instructions for setting up project
 ## How to Run
 Instructions for running
+Work in progress
