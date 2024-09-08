@@ -13,7 +13,7 @@ AUDIO VISUALIZER!!!
 1. This is just a Visualizer animation made with P5
 2. Input an audio track! Preferably the one i uploaded coz its Lit!!!
 ## Video Walkthrough
-[Videoo!!!](https://github.com/SharkSpidy/P5.JS-SHN/blob/main/P5JS-SHN.mkv)
+[Videoo!!!](https://drive.google.com/file/d/1N9lF9RMFw9p4rxPdNf662xSsZs5Z3TAa/view?usp=sharing)
 ## Libraries used
 P5
 ## How to configure
