@@ -1,0 +1,52 @@
+
+  <!DOCTYPE html>
+  <html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="robots" content="noindex">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.6.0/p5.min.js"></script>
+    <style>
+      body {
+        margin: 0;
+        overflow: hidden;
+      }
+    </style>
+  </head>
+  <body>
+    <script>
+    const space = 4
+const size = Math.min(window.innerWidth, window.innerHeight)
+let start = 0
+
+function setup() {
+  createCanvas(window.innerWidth, window.innerHeight)
+  angleMode(DEGREES)
+  noStroke()
+}
+
+function draw() {
+  background(30)
+  translate(width / 2, height / 2)
+
+  for (let i = 0; i < 360; i += space) {
+    const offsetX = map(sin(i), -1, 1, 0, 3)
+    const offsetY = map(cos(i), -1, 1, 0, 3)
+
+    const n = noise(start + offsetX, start + offsetY)
+
+    const h = map(n, 0, 1, -size * 0.2, size * 0.2)
+
+    const r = map(sin(i), -1, 1, 100, 200)
+    const g = map(h, -size * 0.2, size * 0.2, 0, 150)
+    const b = map(n, 0, 1, 150, 255)
+
+    fill(r, g, b)
+
+    rotate(space)
+    rect(size * 0.3, 0, h, 8, 4)
+  }
+  start += 0.005
+}
+    </script>
+  </body>
+  </html>
