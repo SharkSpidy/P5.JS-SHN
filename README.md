@@ -9,15 +9,12 @@ AUDIO VISUALIZER!!!
 ## Team members
 1. [Joseph Shibu](https://github.com/SharkSpidy)
 2. [Aiswarya Chandrashekar](https://github.com/Techkunjan)
-## Link to product walkthrough
-[link to video](Link Here)
 ## How it Works ?
-1. Explaining the working of project
-2. Embed video of project demo
+1. This is just a Visualizer animation made with P5
+2. Integrating the audio input is work in progress
 ## Libraries used
-Library Name - Version
+P5
 ## How to configure
-Instructions for setting up project
+Clone Repo
 ## How to Run
-Instructions for running
-Work in progress
+Open html file.
