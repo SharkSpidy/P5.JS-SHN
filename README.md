@@ -12,10 +12,13 @@ AUDIO VISUALIZER!!!
 ## How it Works ?
 1. This is just a Visualizer animation made with P5
 2. Input an audio track! Preferably the one i uploaded coz its Lit!!!
+## Video Walkthrough
+[Videoo!!!](https://github.com/SharkSpidy/P5.JS-SHN/blob/main/P5JS-SHN.mkv)
 ## Libraries used
 P5
 ## How to configure
 Clone Repo
 ## How to Run
 Open html file.
+
 PS : Sorry for the Late upload!!(Was My birthday!!)
