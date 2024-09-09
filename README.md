@@ -4,7 +4,7 @@
 
 
 
-# Project Name
+# MUZIC VISUALIZEEE!!
 AUDIO VISUALIZER!!!
 ## Team members
 1. [Joseph Shibu](https://github.com/SharkSpidy)
